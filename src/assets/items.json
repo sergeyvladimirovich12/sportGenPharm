@@ -1,0 +1,428 @@
+{
+  "products": [
+    {
+      "name": "Тестостерон Пропионат",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "100mg/ml",
+          "price": 850,
+          "available": false,
+          "image": "https://landofmarbles.com/wp-content/uploads/2020/11/Testosterone-Propionate-ZPHC-1.jpg"
+        },
+        {
+          "brand": "QPharm",
+          "concentration": "100mg/ml",
+          "price": 1000,
+          "available": true,
+          "image": "https://gt.parkerlabs.one/upload/production/5a2b3d8c4f0db886bcb7678902b359ab.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Сустанон",
+      "variants": [
+        {
+          "brand": "Centurion",
+          "concentration": "250mg/ml",
+          "price": 1700,
+          "available": true,
+          "image": "https://land.profarm4.top/uploads/thumbs/store/product/webp/700x700_cropped_8c06f78e18116b15ace907756d02e233.jpg.webp"
+        },
+        {
+          "brand": "QPharm",
+          "concentration": "250mg/ml",
+          "price": 2150,
+          "available": true,
+          "image": "https://gt.parkerlabs.one/upload/production/d787df506148616da0cfea07fd2b35ec.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Тестостерон Энантат",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "250mg/ml",
+          "price": 2200,
+          "available": true,
+          "image": "https://1.bp.blogspot.com/-AnPnU3nfg9E/VtcpwAslJNI/AAAAAAAAAOA/BWH79xHRgAo/s1600/Testosterone%2BEnanthate%2BIrani%2B1ML%2BAburahin%2BIran%2B150.jpg"
+        },
+        {
+          "brand": "QPharm",
+          "concentration": "300mg/ml",
+          "price": false,
+          "available": true,
+          "image": "https://land.profarm4.top/uploads/store/product/a7165bde75c5abdc54469bb7edcccfa3.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Тестосетрон Ципионат",
+      "variants": [
+        {
+          "brand": "SC",
+          "concentration": "250mg/ml",
+          "price": 2300,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "UFC",
+          "concentration": "250mg/ml",
+          "price": 2000,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Нандролон Деканоат",
+      "variants": [
+        {
+          "brand": "Olymp",
+          "concentration": "250mg/ml",
+          "price": 2600,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Spectrum",
+          "concentration": "250mg/ml",
+          "price": 2900,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Метандиенон",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "100x10mg",
+          "price": 1700,
+          "available": false,
+          "image": "https://101hairtips.com/wp-content/uploads/6/f/3/6f39ce3ac9da3f29447ab9f56ee80b87.jpeg"
+        },
+        {
+          "brand": "BioPharm",
+          "concentration": "100x10mg",
+          "price": 1650,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Balkan",
+          "concentration": "100x10mg",
+          "price": 1700,
+          "available": true,
+          "image": "https://mens-physic.ru/images/2021/04/img_16193963888504-1-1024x576.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Тренболон Ацетат",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "100mg/ml",
+          "price": 2800,
+          "available": true,
+          "image": "https://smartnutrition.kz/image/data/11111/zphc-tren-a.jpg"
+        },
+        {
+          "brand": "Genotek",
+          "concentration": "100mg/ml",
+          "price": 2600,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Гормон Роста",
+      "variants": [
+        {
+          "brand": "Eval Pharm",
+          "concentration": "100ед",
+          "price": 6750,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Red Rocket",
+          "concentration": "100уд",
+          "price": 5800,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Genotek",
+          "concentration": "100ед",
+          "price": 6000,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Somatex",
+          "concentration": "100ед",
+          "price": 7200,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Анабол",
+      "variants": [
+        {
+          "brand": "Olymp",
+          "concentration": "50mg/ml",
+          "price": false,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Винстрол",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "50mg/ml",
+          "price": 1300,
+          "available": false,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Olymp",
+          "concentration": "50mg/ml",
+          "price": 1000,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "QPharm",
+          "concentration": "50mg/ml",
+          "price": 1100,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Анаполон",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "100x50mg",
+          "price": 3200,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Olymp",
+          "concentration": "100x50mg",
+          "price": 3300,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Genotek",
+          "concentration": "100x50mg",
+          "price": 3200,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Оксандролон",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "100x10mg",
+          "price": 2900,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Olymp",
+          "concentration": "100x10mg",
+          "price": 2700,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "QPharm",
+          "concentration": "100x10mg",
+          "price": 3200,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Туринабол",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "100x10mg",
+          "price": 2500,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Genotek",
+          "concentration": "100x10mg",
+          "price": 2500,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Olymp",
+          "concentration": "100x10mg",
+          "price": 2400,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Станозолол",
+      "variants": [
+        {
+          "brand": "BioPharm",
+          "concentration": "100x10mg",
+          "price": 1650,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "ZPHC",
+          "concentration": "100x10mg",
+          "price": 1700,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Olymp",
+          "concentration": "100x10mg",
+          "price": 1300,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "GSSlab",
+          "concentration": "100x10mg",
+          "price": 1500,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Genotek",
+          "concentration": "100x10mg",
+          "price": 1650,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Мастерон Энантат",
+      "variants": [
+        {
+          "brand": "SC",
+          "concentration": "200mg/ml",
+          "price": 4450,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Centurion",
+          "concentration": "200mg/ml",
+          "price": 3300,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Мастерон Пропионат",
+      "variants": [
+        {
+          "brand": "Olymp",
+          "concentration": "100mg/ml",
+          "price": 2400,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "QPharm",
+          "concentration": "100mg/ml",
+          "price": 2500,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Тренболон Энантат",
+      "variants": [
+        {
+          "brand": "Olymp",
+          "concentration": "200mg/ml",
+          "price": 3700,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Genotek",
+          "concentration": "200mg/ml",
+          "price": 3900,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Тритрен",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "200mg/ml",
+          "price": 4000,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "name": "Болденон",
+      "variants": [
+        {
+          "brand": "ZPHC",
+          "concentration": "250mg/ml",
+          "price": 2400,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "QPharm",
+          "concentration": "300mg/ml",
+          "price": 2100,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        },
+        {
+          "brand": "Olymp",
+          "concentration": "300mg/ml",
+          "price": 2000,
+          "available": true,
+          "image": "https://via.placeholder.com/150"
+        }
+      ]
+    }
+  ]
+}
