@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbeddb28.css",
-    "main.js": "/static/js/main.3c69fa02.js",
-    "static/media/logo.png": "/static/media/logo.1426d9d0c92485eafab3.png",
-    "index.html": "/index.html",
-    "main.cbeddb28.css.map": "/static/css/main.cbeddb28.css.map",
-    "main.3c69fa02.js.map": "/static/js/main.3c69fa02.js.map"
+    "main.css": "/sportGenPharm/static/css/main.cbeddb28.css",
+    "main.js": "/sportGenPharm/static/js/main.9704e1b4.js",
+    "static/media/logo.png": "/sportGenPharm/static/media/logo.1426d9d0c92485eafab3.png",
+    "index.html": "/sportGenPharm/index.html",
+    "main.cbeddb28.css.map": "/sportGenPharm/static/css/main.cbeddb28.css.map",
+    "main.9704e1b4.js.map": "/sportGenPharm/static/js/main.9704e1b4.js.map"
   },
   "entrypoints": [
     "static/css/main.cbeddb28.css",
-    "static/js/main.3c69fa02.js"
+    "static/js/main.9704e1b4.js"
   ]
 }
