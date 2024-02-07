@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./Catalog.css";
 import productsData from "../assets/items.json";
+import { sendMessage } from "./telegram";
+
 const emptyImage = "https://via.placeholder.com/150";
 
 const Catalog = () => {
@@ -37,7 +39,39 @@ const Catalog = () => {
       [productName]: brand,
     }));
   };
+  const getUserIp = async () => {
+    try {
+      const response = await fetch("https://api64.ipify.org?format=json");
+      const data = await response.json();
+      return data.ip;
+    } catch (error) {
+      console.error("Ошибка при получении IP-адреса:", error);
+      return null; // Возвращаем null в случае ошибки
+    }
+  };
 
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const userIp = await getUserIp();
+        const message = `новый посетитель сайта, IP: ${userIp}`;
+        sendMessage(message)
+          .then((response) => {
+            console.log(
+              "Сообщение успешно отправлено в Telegram:",
+              response.data
+            );
+          })
+          .catch((error) => {
+            console.error("Ошибка отправки сообщения в Telegram:", error);
+          });
+      } catch (error) {
+        console.error("Ошибка при получении IP-адреса:", error);
+      }
+    };
+
+    fetchData();
+  }, []);
   return (
     <div className="products">
       {productsData.products.map((product) => (
@@ -94,7 +128,11 @@ const Catalog = () => {
               <p className="selected-brand-info__price">
                 {selectedBrandInfo[product.name].price} ₽
               </p>
-              <a href="https://telegram.org" target="_blank" className="buy">
+              <a
+                href="https://t.me/sportGenPharm"
+                target="_blank"
+                className="buy"
+              >
                 Купить
               </a>
             </div>
