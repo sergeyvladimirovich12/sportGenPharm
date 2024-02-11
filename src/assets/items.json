@@ -2,6 +2,7 @@
   "products": [
     {
       "name": "Тестостерон Пропионат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -42,6 +43,7 @@
     },
     {
       "name": "Сустанон",
+      "type": "AAC",
       "variants": [
         {
           "brand": "Centurion",
@@ -61,6 +63,7 @@
     },
     {
       "name": "Тестостерон Энантат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -80,6 +83,7 @@
     },
     {
       "name": "Тестосетрон Ципионат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "SC",
@@ -99,6 +103,7 @@
     },
     {
       "name": "Нандролон Деканоат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "Olymp",
@@ -118,6 +123,7 @@
     },
     {
       "name": "Метандиенон",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -144,6 +150,7 @@
     },
     {
       "name": "Тренболон Ацетат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -163,6 +170,7 @@
     },
     {
       "name": "Гормон Роста",
+      "type": "AAC",
       "variants": [
         {
           "brand": "Eval Pharm",
@@ -196,6 +204,7 @@
     },
     {
       "name": "Анабол",
+      "type": "AAC",
       "variants": [
         {
           "brand": "Olymp",
@@ -208,6 +217,7 @@
     },
     {
       "name": "Винстрол",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -234,6 +244,7 @@
     },
     {
       "name": "Анаполон",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -260,6 +271,7 @@
     },
     {
       "name": "Оксандролон",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -286,6 +298,7 @@
     },
     {
       "name": "Туринабол",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -312,6 +325,7 @@
     },
     {
       "name": "Станозолол",
+      "type": "AAC",
       "variants": [
         {
           "brand": "BioPharm",
@@ -352,6 +366,7 @@
     },
     {
       "name": "Мастерон Энантат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "SC",
@@ -371,6 +386,7 @@
     },
     {
       "name": "Мастерон Пропионат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "Olymp",
@@ -390,6 +406,7 @@
     },
     {
       "name": "Тренболон Энантат",
+      "type": "AAC",
       "variants": [
         {
           "brand": "Olymp",
@@ -409,6 +426,7 @@
     },
     {
       "name": "Тритрен",
+      "type": "AAC",
       "variants": [
         {
           "brand": "ZPHC",
@@ -421,6 +439,8 @@
     },
     {
       "name": "Болденон",
+      "type": "AAC",
+
       "variants": [
         {
           "brand": "ZPHC",
@@ -442,6 +462,110 @@
           "price": 2000,
           "available": true,
           "image": "https://tvoytrener.com/www/img/sta/farma_olymp.gif"
+        }
+      ]
+    },
+    {
+      "name": "Ибутаморен MK-677",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/7/2745/989/MK677__11_-removebg-preview.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Миостин YK-11",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/7/2745/985/YK11__1_-removebg-preview.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Радарин RAD-140",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/11/2745/991/Rad140__1_-removebg-preview.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Реверол SR9009",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/7/2745/992/Reverol_SR9009__1_-removebg-preview.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Масторин S-23",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/7/2745/993/Mastorin__1_-removebg-preview.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Фиторин GW-0742",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/9/2748/179/Fitorine__1_-removebg-preview.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Андарин S-40503",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/7/2745/983/Andarine__1_-removebg-preview.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Лигандрол LGD-4033",
+      "type": "SARM",
+      "variants": [
+        {
+          "brand": "Epic Labs",
+          "concentration": "60 ед",
+          "price": 3500,
+          "available": true,
+          "image": "https://st.storeland.ru/11/2745/982/LGD4033__11_-removebg-preview.jpg"
         }
       ]
     }

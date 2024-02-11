@@ -59,17 +59,15 @@
   color: white;
 }
 
-.available {
-  color: green;
-}
-
 .unavailable {
+  font-weight: 600;
   color: red;
 }
 
 .buy {
   border-radius: 25px;
   background-color: #ffa500;
+  font-weight: 600;
   padding: 12px 32px;
   font-size: 14px;
   text-decoration: none;
@@ -78,4 +76,23 @@
 
 .buy:hover {
   background-color: #ff8c00;
+}
+
+.tab {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tab-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s; /* добавлен переход для плавного изменения цвета */
+}
+
+.tab-button.active {
+  background-color: #ffa500;
+  color: white;
 }
